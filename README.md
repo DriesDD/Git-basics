@@ -50,7 +50,7 @@ you are now editing a file!
 
 a) once you are done improving the file, save it.
 
-b) then do **git add** to move your file to your workspace (forgot the name of the workspace)
+b) then do **git add** to move your file to your staging area
 
 c) then do **git commit** to commit the file to your local repository
 
