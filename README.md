@@ -4,7 +4,7 @@ This assumes you have git, github, and a repository (or repo) which you can acce
 
 ## 1. moving to the right folder
 
-a) Use dir or pwd to see where you are.
+a) Use `dir` or `pwd` to see where you are.
 
 b) `ls` to show the folders in the current directory
 
