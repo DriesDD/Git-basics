@@ -1,6 +1,7 @@
 # Git-basics
 We did an exercise on editing a repository offline using `terminal commands`. `These` are the commands you need.
-This assumes you have git, github, and a repository (or repo) which you can access in github.
+This assumes you have git, github, a linux or mac terminal and a repository (or repo) which you can access in github.
+Can also be read on https://dev.to/driesdd/git-basics-15fd
 
 ## 1. moving to the right folder
 
