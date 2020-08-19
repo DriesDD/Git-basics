@@ -21,7 +21,7 @@ c) Use `cd` to change directory.
 
 you can also use `cd ..` to move one directory up and `cd /..` to move to the home directory
 
-Or you could navigate to the right folder with your file browser, right click it, and select 'Open in Terminal' or the equivalent option.
+or you could navigate to the right folder with your file browser, right click it, and select 'Open in Terminal' or the equivalent option
 
 ## 2. cloning a repository (download it to your current directory to work in it)
 
